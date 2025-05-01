@@ -1,0 +1,2 @@
+# FinZen
+Smart Expense Tracker
