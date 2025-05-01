@@ -1,2 +1,3 @@
 # FinZen
 Smart Expense Tracker
+https://v0-new-project-o8cp1jvz3p5-kmn7ts.vercel.app/login
